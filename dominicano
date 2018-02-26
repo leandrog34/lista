@@ -1,0 +1,67 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="==== REPUBLICA DOMINICANA ====" tvg-logo="http://www.expatescort.com/public/img/flags/do.png" group-title="LABEL",==== REPUBLICA DOMINICANA ====
+http://www.lengua.com/anthems/DominicanRepublic.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://media.tvalacarta.info/canales/96x96/antena7.png" group-title="DOMINICAN REP",Antena 7 [Geo]
+http://d3e6ki1290i3kk.cloudfront.net/do/antena_latina.smil/chunklist_b948304.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://2.bp.blogspot.com/-69DQrpOQLlk/T4VhFxz3iWI/AAAAAAAAFow/9xe_MZDVlR8/s400/bonaotv.jpg" group-title="DOMINICAN REP",Bonao TV Canal 12
+http://ss9.domint.net:1988/btv_str/bonao/chunklist_w176943289.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/FsYuSEI.png" group-title="DOMINICAN REP",DMYTV
+http://stream.dominicanyork.tv:1935/dominicanyorktv/DMYTV/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/bhj6YkMyoHo/hqdefault.jpg" group-title="DOMINICAN REP",MicroVision Canal 10
+http://190.103.183.24:1935/live/MicroHD/chunklist_w1105794626.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://3.bp.blogspot.com/-E3xRbzP2DiA/T4VacAhY0ZI/AAAAAAAAFoE/2sHE_KAXqvg/s400/peravia_vision_logo.png" group-title="DOMINICAN REP",Peravia Vision Canal 8
+http://ss6.domint.net:2002/pvv_str/peravia/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.laromanabayahibenews.com/wp-content/uploads/2012/09/Romana-TV-canal-42-CLARO-TV-Wind-Telecom-Tricom-internet-republica-dominicana.jpg" group-title="DOMINICAN REP",Romana TV 42
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIDO0034&mode=12
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://emisoradominicana.net/television/wp-content/uploads/2015/06/telenord.jpg" group-title="DOMINICAN REP",Telenord Canal 8
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIDO0026&mode=12
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://emisoradominicana.net/television/wp-content/uploads/2015/06/telenord.jpg" group-title="DOMINICAN REP",Telenord Canal 10
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIDO0027&mode=12
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://emisoradominicana.net/television/wp-content/uploads/2015/06/telenord.jpg" group-title="DOMINICAN REP",Telenord Canal 12
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIDO0028&mode=12
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://xtremotv.com/images/xtremo_logo2_.png" group-title="DOMINICAN REP",Xtremo Channel
+http://ss6.domint.net:1948/zol_str/vzol/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://yunavision.com/images/yuna2sm.png" group-title="DOMINICAN REP",Yuna Vision Canal 10
+http://ss9.domint.net:1986/yv_str/yuna/chunklist_w2142669924.m3u8
+#EXTINF:-1 tvg-id="60668" tvg-name="Tele Antillas" tvg-logo="http://static-content.iptv66.tv/stalker_portal/misc/logos/240/309.png" group-title="Rep-Dom",Tele Antillas
+http://69.64.69.92:1935/hita-tv-ch02app/studio/playlist.m3u8?DVR
+#EXTINF:-1 tvg-id="61566" tvg-name="Telemicro Canal 5" tvg-logo="http://static-content.iptv66.tv/stalker_portal/misc/logos/240/311.png" group-title="Rep-Dom",Telemicro Canal 5
+http://s2.iptv66.tv:80/live/M12013Y05470N/M12013Y05470N/120.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette3.wikia.nocookie.net/logopedia/images/7/75/Telemicro_1997.png" group-title="DOMINICAN REP",Telemicro Canal 5 HD
+http://api.new.livestream.com/accounts/736348/events/5522678/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Color Visión" tvg-logo="http://static-content.iptv66.tv/stalker_portal/misc/logos/240/313.png" group-title="Rep-Dom",Color Visión
+http://s2.iptv66.tv:80/live/M12013Y05470N/M12013Y05470N/507.ts
+#EXTINF:-1 tvg-id="" tvg-name="Color Visión" tvg-logo="http://static-content.iptv66.tv/stalker_portal/misc/logos/240/313.png" group-title="Rep-Dom",Color Visión (opc2)
+http://ss6.domint.net:2102/cvh_str/colorvisionhd/chunklist_w615914168.m3u8 
+#EXTINF:-1 tvg-id="" tvg-name="Super tv 55" tvg-logo="http://canalesdominicanosenvivo.com/wp-content/uploads/2013/09/LogoSTV55-Canales-Dominicanos-Online.jpg" group-title="Rep-Dom",Super tv 55
+http://ss9.domint.net:2022/stv_str/tv55/chunklist_w188253550.m3u8 
+#EXTINF:-1 tvg-id="" tvg-name="Luna tv 53" tvg-logo="http://www.lunatv.do/images/gestor/logo-canal53.png" group-title="Rep-Dom",Luna tv 53
+http://qs1.distream.net:2140/luna_str/lunatv/chunklist_w463969675.m3u8 
+#EXTINF:-1 tvg-id="" tvg-name="Tele Contacto" tvg-logo="http://http://canalesdominicanosenvivo.com/wp-content/uploads/2014/05/Telecontacto-Canal-57.jpg" group-title="Rep-Dom",Tele Contacto 57
+http://server3.prostudionetwork.com:1957/telecontacto/smil:telecontacto.smil/chunklist_w2111396412_b414000_sleng.m3u8 
+#EXTINF:-1 tvg-id="46322" tvg-name="Telesistema Canal 11" tvg-logo="http://static-content.iptv66.tv/stalker_portal/misc/logos/240/807.png" group-title="Rep-Dom",Telesistema Canal 11
+http://69.64.69.92:1935/hits-tv-ch11app/studio/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Telecentro canal 13" tvg-logo="http://static-content.iptv66.tv/stalker_portal/misc/logos/240/3615.png" group-title="Rep-Dom",Telecentro canal 13
+http://s2.iptv66.tv:80/live/M12013Y05470N/M12013Y05470N/398.ts
+#EXTINF:-1 tvg-id="" tvg-name="Digital 15" tvg-logo="http://static-content.iptv66.tv/stalker_portal/misc/logos/240/787.png" group-title="Rep-Dom",Digital 15
+http://s2.iptv66.tv:80/live/M12013Y05470N/M12013Y05470N/175.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.luperondigital.com/wp-content/uploads/2017/01/digital-15-vivo-Canales-Dominicanos.jpg" group-title="DOMINICAN REP",Digital 15 (op2)
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=LVDO0011&mode=12
+#EXTINF:-1 tvg-id="" tvg-name="CDN Canal 37" tvg-logo="http://static-content.iptv66.tv/stalker_portal/misc/logos/240/811.png" group-title="Rep-Dom",CDN Canal 37
+http://s2.iptv66.tv:80/live/M12013Y05470N/M12013Y05470N/179.ts
+#EXTINF:-1 tvg-id="" tvg-name="TRA Digital" tvg-logo="http://static-content.iptv66.tv/stalker_portal/misc/logos/240/1151.png" group-title="Rep-Dom",TRA Digital
+http://qs1.distream.net:2116/t45_str/canal45/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CDN Sports Max" tvg-logo="http://static-content.iptv66.tv/stalker_portal/misc/logos/240/809.png" group-title="Rep-Dom",CDN Sports Max
+http://s2.iptv66.tv:80/live/M12013Y05470N/M12013Y05470N/178.ts
+#EXTINF:-1 tvg-id="" tvg-name="TeleFuturo Canal 23" tvg-logo="http://static-content.iptv66.tv/stalker_portal/misc/logos/240/1153.png" group-title="Rep-Dom",TeleFuturo Canal 23
+rtmp://qs1.distream.net:2112/tf_str/futu
+#EXTINF:-1 tvg-id="" tvg-name="Nexxo tv 20" tvg-logo="http://www.nexxo.tv/envivo/images/LOGONEXXOBlanco.png" group-title="Rep-Dom",Nexxo tv 20
+http://qs1.distream.net:2100/nxo_str/nexxotv/chunklist_w1435099931.m3u8 
+#EXTINF:-1 tvg-id="" tvg-name="Tele Universo" tvg-logo="http://static-content.iptv66.tv/stalker_portal/misc/logos/240/1155.png" group-title="Rep-Dom",Tele Universo
+rtmp://ss9.domint.net:1942/tu_str/universo
+#EXTINF:-1 tvg-id="" tvg-name="Canal 25" tvg-logo="http://static-content.iptv66.tv/stalker_portal/misc/logos/240/315.png" group-title="Rep-Dom",Canal 25
+http://qs1.distream.net:2126/c25_str/canal25/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RNN Canal 27" tvg-logo="http://static-content.iptv66.tv/stalker_portal/misc/logos/240/3667.png" group-title="Rep-Dom",RNN Canal 27
+http://ss6.domint.net:2042/rnn_str/canal27/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Tu Musica HD" tvg-logo="http://canalesdominicanosenvivo.com/wp-content/uploads/2015/07/Tu-Musica-HD170.jpg" group-title="Rep-Dom",Tu Musica HD
+http://cm.hostlagarto.com:8081/tumusicahd/tumusicaHD.myStream/chunks.m3u8
